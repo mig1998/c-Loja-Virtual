@@ -1,0 +1,24 @@
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe.config
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.pdb
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.ADM.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.CadastrarADM.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.FormClient.CadastrarCliente.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.FormClient.Cliente.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.HOME.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.lojaVirtualADM.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.LojaVirtualCliente.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.Properties.Resources.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.exe
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.pdb
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\data\LojaVirtual.mdf
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\data\LojaVirtual_log.ldf
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.FormADM.FornecedorADM.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.FormADM.ProdutoADM.resources
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe.manifest
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.application
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.exe.manifest
+C:\Users\Miguel\source\repos\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.application
